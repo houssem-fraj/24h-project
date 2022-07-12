@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    }
+    body{
+        display: flex;
+        justify-content: center;
+        background: cornflowerblue;
+        height: 100vh;
+        font-family: system-ui;
+    }
+    #menu-2{
+        background-color: aqua;
+    }
